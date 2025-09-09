@@ -30,7 +30,7 @@
                          &kp LEFT_ALT  &mo 1  &kp LEFT_GUI    &kp SPACE  &mo 2  &kp ENTER
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp C_AC_FORWARD C_AC_BACK>;
+            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp C_AL_NEXT_TASK C_AL_PREV_TASK>;
         };
 
         lower_layer {
